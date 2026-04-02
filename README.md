@@ -80,20 +80,3 @@ Added validation and multiple result views like tables and charts.
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Lakssiva\&theme=tokyonight\&hide_border=false\&include_all_commits=false\&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Lakssiva\&theme=tokyonight\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakssiva\&theme=tokyonight\&hide_border=false\&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Lakssiva\&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Lakssiva\&icon=0\&color=13)](https://visitcount.itsvg.in)
