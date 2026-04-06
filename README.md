@@ -40,15 +40,16 @@ Exploring video creation using DaVinci Resolve alongside my development journey.
 
 ## 🚀 Projects
 
-### 🔹 College Navigation Website
+### 🔹[College Navigation Website](https://github.com/Lakssiva/College_navigation)
 
 Developed a web-based navigation system to help users locate places within a college campus.
 Integrated search functionality and QR-based access for quick navigation.
 **Tech:** HTML, CSS, JavaScript, Google Maps
 
+
 ---
 
-### 🔹 JobDash – Job Analytics Dashboard
+### 🔹 [JobDash – Job Analytics Dashboard](https://github.com/Lakssiva/Jobdash)
 
 Built a dashboard to analyze job trends and listings with features like skill-based filtering and data visualization.
 Implemented API integration and an admin panel for managing job data.
@@ -56,7 +57,7 @@ Implemented API integration and an admin panel for managing job data.
 
 ---
 
-### 🔹 UFDR Investigation Tool
+### 🔹 [UFDR Investigation Tool](https://github.com/Lakssiva/ufdr)
 
 Worked on a MERN-based system to process UFDR files and extract digital evidence like chats and contacts.
 Implemented filtering, pattern detection, and report generation features.
@@ -64,7 +65,7 @@ Implemented filtering, pattern detection, and report generation features.
 
 ---
 
-### 🔹 Natural Language Interface for MongoDB
+### 🔹[Natural Language Interface for MongoDB](https://github.com/Lakssiva/mongodb_NLI)
 
 Developed a system that converts natural language queries into MongoDB operations.
 Added validation and multiple result views like tables and charts.
